@@ -1,0 +1,10 @@
+C:\Users\Ozan\source\repos\Kapat\Kapat\bin\Debug\Kapat.exe.config
+C:\Users\Ozan\source\repos\Kapat\Kapat\bin\Debug\Kapat.exe
+C:\Users\Ozan\source\repos\Kapat\Kapat\bin\Debug\Kapat.pdb
+C:\Users\Ozan\source\repos\Kapat\Kapat\obj\Debug\Kapat.csprojAssemblyReference.cache
+C:\Users\Ozan\source\repos\Kapat\Kapat\obj\Debug\Kapat.Form1.resources
+C:\Users\Ozan\source\repos\Kapat\Kapat\obj\Debug\Kapat.Properties.Resources.resources
+C:\Users\Ozan\source\repos\Kapat\Kapat\obj\Debug\Kapat.csproj.GenerateResource.cache
+C:\Users\Ozan\source\repos\Kapat\Kapat\obj\Debug\Kapat.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\source\repos\Kapat\Kapat\obj\Debug\Kapat.exe
+C:\Users\Ozan\source\repos\Kapat\Kapat\obj\Debug\Kapat.pdb
